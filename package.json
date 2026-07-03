@@ -17,11 +17,14 @@
     "react": "^18",
     "react-dom": "^18"
   },
+  "overrides": {
+    "postcss": "^8.5.10"
+  },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "eslint": "^8",
+    "eslint": "^9",
     "eslint-config-next": "^16.2.9",
     "typescript": "^5"
   }
